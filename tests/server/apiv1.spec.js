@@ -84,5 +84,6 @@ describe('Get Weather', function() {
 
     assert(resMock.status.lastCall.calledWith(200), 'Unexpected response:' + resMock.status.lastCall.args);
   });
-})
 */
+})
+
